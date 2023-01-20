@@ -1,6 +1,6 @@
-## 10 steps to Git Your GYG
+## Steps to Git Your GYG
 
-Improve the discipline a little bit on each step every day ... Life is supposed to be a recursiveAF training regimen ... we train in order to train
+Try to improve your discipline as much as you can on each of these twelve exercises every day. We approach these exercises as if they were a training session in which we are coaching ourselves to get better.  We train with intention now in order to train better in our next training sesssion because time unfolds in our lives to give us a training regimen that is recursive, ie, the point the discipline is working on the discipline of making the discipline better. 
 
 1) If you need $, avoid wage slavery; sell very small portions of your time thru microwerk, FiveRR; freelance then graduate to StartUpCookbook.US
 
@@ -25,3 +25,6 @@ Improve the discipline a little bit on each step every day ... Life is supposed 
 11) Improve your ideation discipline; entertain yourself by brainstorming ideas from scrolling; categorize ideas into A, B, C, D bins
 
 12) Study how skill economies work; develop intell gathering on talent acquisitions ops; analyze knowledge graph from LinkedIn, Indeed, et al
+
+## Git Your GYG is a set of forkable repositories. Fork the GYG repositories; make the fork your own ... then BE your fork.
+ 
