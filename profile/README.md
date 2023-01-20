@@ -6,7 +6,7 @@ Work a little bit on each step every day.
 
 2) Minimalize your life, use less, share more ... stop being a pathetically target-rich zone for economic predators who eat the needy 
 
-3) STOP hanging out with like-minded people, especially needy materialists; listen harder and flexibilize your mindset for antifragile networking
+3) Don't hang with like-minded people, especially needy materialists; listen harder, flexibilize your mindset for antifragile networking
 
 4) Understand how things works ... physiology, cooking, gardening, HVAC, sewer drains ... understand how snares catch prey animials
 
