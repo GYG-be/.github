@@ -27,11 +27,11 @@ Try to improve your discipline as much as you can on each of these twelve **exer
 12) Study how skill economies work; develop intell gathering on talent acquisitions ops; analyze knowledge graph from LinkedIn, Indeed, et al
 
 
-## GYG Flow -- Git more out of GIT
+## GYG Flow -- Git more flow out of GIT
 
-1) Fork these Git repositories and dogfood them for social development.
+1) Fork Git repositories; dogfood them for your own use; extend them for social development.
 
-2) Understand and use pull requests; develop the culture of sharing
+2) Understand and use the best practices of using pull requests; develop the culture of sharing
 
 3) Initiate implementation with an issue-driven development process
 
@@ -48,4 +48,8 @@ Try to improve your discipline as much as you can on each of these twelve **exer
 9) Change/improve your the fork; add the hard things that you wish someone would add in order to make it your own
 
 10) BE the best selling example of not just your forks, but also your development discipline.
+
+11) Make it more social; find ways to network; consider measuring the effectiveness of your networking
+
+12) LISTEN a better and listen to those who best at listening
  
