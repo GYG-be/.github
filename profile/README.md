@@ -53,5 +53,31 @@ Try to improve your discipline as much as you can on each of these twelve **exer
 
 12) LISTEN a better and listen to those who best at listening
 
-## GYG Projects
+## GYG Related Projects
+
+1) Annotify
+
+2) RSSistant
+
+3) DIFFgraph / GNNgraph
+
+4) StartupCookbook
+
+5) SheepDEWG
+
+6) creVass
+
+7) Funnier.be Clichesaurus
+
+8) DIFFversity
+
+9) GitRxiv
+
+11) 86400.guru
+
+12) ENGR.co
+
+
+
+
  
