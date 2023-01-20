@@ -10,7 +10,7 @@ Improve the discipline a little bit on each step every day ... Life is supposed 
 
 4) Understand how things works ... physiology, cooking, gardening, HVAC, sewer drains ... understand how snares catch prey animials
 
-5) Defend yourself, be tougher, less addicted, more physically fit ... train in the martial arts hourly, especially flexibilty drills
+5) Defend yourself, be tougher, less addicted, more physically fit ... train in the martial arts hourly, especially flexibilty drills and escapes
 
 6) Dogfood your life by improving the automation and AI, ensure your workflow toolchain is simple and effective, then sell your dogfood
 
