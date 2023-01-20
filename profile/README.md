@@ -12,12 +12,12 @@ Work a little bit on each step every day.
 
 5) Defend yourself, be tougher, less addicted, more physically fit ... train in the martial arts hourly, especially flexibilty drills
 
-6) Dogfood your life by improving automation, the AI you use and every aspect of your workflow toolchain, then sell skills
+6) Dogfood your life by improving the automation and AI, ensure your workflow toolchain is simple and effective, then sell your dogfood
 
 7) Never cold call or beg; instead make your attractive skills contactable with link pages so that someone can email/DM/calendly you
 
-8) Stop watching tv, sports, netflix, youtube ... go for walks  ... start reading more and better; use RSS, but smartify your newsreader
+8) Stop watching tv, sports, netflix, youtube; go for walks -- THINK ... read more broadly, deeply and faster; smartify your RSS newsreader
 
-9) Study economies; develop intelligence gathering ops on what talent businesses need; study/analyze data from Indeed and other job sites
+9) Study practical economies; develop intelligence gathering ops on what talents businesses will need; study/analyze data from Indeed, et al
 
 10) Improve your ideation discipline; entertain yourself by brainstorming ideas from scrolling; categorize ideas into A, B, C, D bins
