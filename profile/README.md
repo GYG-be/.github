@@ -2,9 +2,9 @@
 
 Work a little bit on each step every day.
 
-1) If you need money, don't sign up for wage slavery ... sell small portions of time; microwerk, FiveRR ... freelance then graduate to StartUpCookbook.US
+1) If you need $, avoid wage slavery ... sell small portions of time; microwerk, FiveRR ... freelance then graduate to StartUpCookbook.US
 
-2) Minimalize your life, spend less, use less, share more; do not be a pathetically target-rich zone for economic predators who want you needy 
+2) Minimalize your life, use less, share more ... stop being a pathetically target-rich zone for economic predators who eat the needy 
 
 3) STOP hanging out with like-minded people, especially needy materialists; work harder at antifragile networking; flexibilize your mindset
 
