@@ -2,7 +2,7 @@
 
 Improve the discipline a little bit on each step every day ... Life is supposed to be a recursiveAF training regimen ... we train in order to train
 
-1) If you need $, avoid wage slavery ... sell small portions of time; microwerk, FiveRR ... freelance then graduate to StartUpCookbook.US
+1) If you need $, avoid wage slavery; sell very small portions of your time thru microwerk, FiveRR; freelance then graduate to StartUpCookbook.US
 
 2) Minimalize your consumption, use 10X less, share...stop being a pathetically target-rich zone for economic predators who preying on the needy 
 
@@ -24,4 +24,4 @@ Improve the discipline a little bit on each step every day ... Life is supposed 
 
 11) Improve your ideation discipline; entertain yourself by brainstorming ideas from scrolling; categorize ideas into A, B, C, D bins
 
-12) Study how economies work; develop intelligence gathering ops on what talents businesses will acquire; study/analyze data from Indeed, et al
+12) Study how skill economies work; develop intell gathering on talent acquisitions ops; analyze knowledge graph from LinkedIn, Indeed, et al
