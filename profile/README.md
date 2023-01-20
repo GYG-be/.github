@@ -2,7 +2,7 @@
 
 Work a little bit on each step every day.
 
-1) If you need money, don't wageslave it ... sell small portions of time; microwerk, FiveRR, shortterm freelance ...graduate to StartUpCookbook.US
+1) If you need money, don't sign up for wage slavery ... sell small portions of time; microwerk, FiveRR ... freelance then graduate to StartUpCookbook.US
 
 2) Minimalize your life, spend less, use less, share more; do not be a pathetically target-rich zone for economic predators who want you needy 
 
