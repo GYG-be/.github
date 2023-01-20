@@ -52,4 +52,6 @@ Try to improve your discipline as much as you can on each of these twelve **exer
 11) Make it more social; find ways to network; consider measuring the effectiveness of your networking
 
 12) LISTEN a better and listen to those who best at listening
+
+## GYG Projects
  
