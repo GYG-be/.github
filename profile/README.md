@@ -4,9 +4,9 @@ Improve the discipline a little bit on each step every day ... Life is supposed 
 
 1) If you need $, avoid wage slavery ... sell small portions of time; microwerk, FiveRR ... freelance then graduate to StartUpCookbook.US
 
-2) Minimalize your life, use less, share more ... stop being a pathetically target-rich zone for economic predators who eat the needy 
+2) Minimalize your life, use less, share more ... stop being a pathetically target-rich zone for economic predators who preying on the needy 
 
-3) Don't hang with like-minded people, especially needy materialists; listen harder, flexibilize your mindset for antifragile networking
+3) Don't hang with like-minded people, avoid needy materialist prey animals; listen harder, flexibilize your mindset for antifragile networking
 
 4) Understand how things works ... physiology, cooking, gardening, HVAC, sewer drains ... understand how snares catch prey animials
 
