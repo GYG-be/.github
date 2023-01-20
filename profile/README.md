@@ -1,6 +1,6 @@
 ## 10 steps to Git Your GYG
 
-Work a little bit on each step every day.
+Improve the discipline a little bit on each step every day ... Life is supposed to be a recursiveAF training regimen ... we train in order to train
 
 1) If you need $, avoid wage slavery ... sell small portions of time; microwerk, FiveRR ... freelance then graduate to StartUpCookbook.US
 
