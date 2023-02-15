@@ -67,7 +67,7 @@ Try to improve your discipline as much as you can on each of these twelve **exer
 
 6) creVass
 
-7) Funnier.be Clichesaurus
+7) Funnier.be Clichesaurus DOYNK.ME
 
 8) DIFFversity
 
