@@ -2,13 +2,13 @@
 
 Try to improve your discipline as much as you can on each of these twelve **exercises** every day. We approach these exercises as if they were a training session in which we are coaching ourselves to get better.  We train with intention now in order to train better in our next training sesssion because time unfolds in our lives to give us a training regimen that is recursive, ie, the point the discipline is working on the discipline of making the discipline better. 
 
-1) Avoid wage slavery; if need $, then sell very small portions of your time thru microwerk, FiveRR; freelance then graduate to StartUpCookbook.US
+1) Manage your own time; avoid wage slavery; if you need $, then get throwaway jobs; try microwerk, such FiveRR; freelance then graduate to StartUpCookbook.US
 
 2) Disrupt dysfunctional affluent cultures which encourage fear and predation -- minimalize consumption, distribute sharing, extend open source and independence 
 
-3) Stop hanging with like-minded people; listen better; flexibilize your mindset for antifragile networking; let needy materialist dead bury their dead 
+3) Stop hanging with people who are stuck in the rear-view mirror; listen better, flexibilize your mind, be antifragile; let the dead bury their dead 
 
-5) Live in the NOW, using each second of the 86400 second day to think about the coming seconds, each set of seconds makes each subsequent set of seconds better
+5) Live meditatively; return your focuse the NOW, using each second of the 86400 second day with disciplined intention, making the discipline better
 
 5) Be more curious about ordinary systems which your life depends upon, eg immune system, cooking/food distribution, gardening, utilities, banks/taxes/regs   
 
@@ -20,11 +20,11 @@ Try to improve your discipline as much as you can on each of these twelve **exer
 
 9) Avoid cold calling, begging or asking for a job; make your attractive skills contactable with link pages so that someone can email/DM/calendly you
 
-10) Stop watching tv, sports, netflix, youtube; go for walks -- THINK ... read more broadly, deeply and faster; smartify your RSS newsreader
+10) Stop watching tv, sports, netflix, youtube; go for walks -- THINK ... smartify your investment  by programming your mind with your RSS newsreader
 
-11) Improve your ideation discipline; entertain yourself by brainstorming ideas from scrolling; categorize ideas into A, B, C, D bins
+11) Improve your ideation and fulfillment discipline; entertain yourself by brainstorming ideas from scrolling; categorize ideas into A, B, C, D bins
 
-12) Study how skill economies work; develop intell gathering on talent acquisitions ops; analyze knowledge graph from LinkedIn, Indeed, et al
+12) Study how skill economies work; develop intell gathering on talent acquisitions ops; analyze knowledge graph from Owler, LinkedIn, Indeed, et al
 
 
 ## GYG Flow -- Git more flow out of GIT
