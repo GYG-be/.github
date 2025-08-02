@@ -6,7 +6,7 @@
 - **Ditch** nostalgia and backwards thinkers: **Listen**, become profoundly **antifragile**
 - **Master** critical systems: **Immune response**, **food**, **utilities**, **financial** infrastructure
 - **Write** daily: **Question** assumptions, **create** thought-provoking **future** content
-- **Train** martial arts hourly: **Flexibility**, **toughness**, master **escapes** and flanking
+- **Train** martial arts hourly: Drill **flexibility**, **escapes**, flanking, shrewd **toughness**
 - **Dogfood** your automation: **Simplify** workflows to be able to **monetize** your toolchain
 - **Stop** begging, start helping: Make **skills** discoverable via **optimized** connections
 - **Delete** Netflix: **Walk**, **ponder**, **program** the neuroplastic mind AI-assisted reading
