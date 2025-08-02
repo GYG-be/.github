@@ -7,7 +7,7 @@
 - **Master** critical systems: **Immune response**, **food**, **utilities**, **financial** infrastructure
 - **Write** daily: **Question** assumptions, **create** thought-provoking **future** content
 - **Train** martial arts hourly: **Flexibility**, **toughness**, master **escapes** and flanking
-- **Dogfood** your automation: **Simplify** workflows, **monetize** your toolchain
+- **Dogfood** your automation: **Simplify** workflows to be able to **monetize** your toolchain
 - **Stop** begging, start helping: Make **skills** discoverable via **optimized** connections
 - **Delete** Netflix: **Walk**, **ponder**, **program** the neuroplastic mind AI-assisted reading
 - **Ideate** constantly: **Brainstorm** from scrolling, **categorize** A-B-C-D, manage bins
