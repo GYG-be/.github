@@ -1,7 +1,7 @@
 ## Git Your GYG Discipline
 
 - **Live** meditatively: **Optimize** 86,400 s/day with intentional **discipline**
-- **Escape** wage slave mindsets: **Freelance**, **microwork**, **scale** to startups
+- **Escape** any wage-slave mindset: Side-hustle, **Freelance**, **microwork**, **scale** to startups
 - **Disrupt** affluence: **Minimize** consumption, **maximize** sharing, **opensource** everything
 - **Ditch** nostalgia and backwards thinkers: **Listen**, become profoundly **antifragile**
 - **Master** critical systems: **Immune**, **food**, **utilities**, **financial** infrastructure
