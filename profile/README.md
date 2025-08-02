@@ -11,4 +11,4 @@
 - **Stop** begging, start helping: Make **skills** discoverable via **optimized** connections
 - **Delete** Netflix: **Walk**, **ponder**, **program** the mind with AI-assisted speedreading
 - **Ideate** constantly: **Brainstorm** from scrolling, **categorize** A-B-C-D, manage bins
-- **Strategize** skill economies: Skip org charts, Construct and **Analyze** talent graphs
+- **Strategize** skill economies: Skip org charts, construct and **analyze** talent graphs
