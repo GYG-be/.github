@@ -1,6 +1,4 @@
-## Git Your GYG Excercises
-
-Try to improve your discipline as much as you can on each of these twelve **exercises** every day. We approach these exercises as if they were a training session in which we are coaching ourselves to get better.  We train with intention now in order to train better in our next training sesssion because time unfolds in our lives to give us a training regimen that is recursive, ie, the point the discipline is working on the discipline of making the discipline better. 
+## Git Your GYG Discipline
 
 1) Manage your own time; avoid wage slavery; if you need $, then get throwaway jobs; try microwerk, such FiveRR; freelance then graduate to StartUpCookbook.US
 
@@ -25,61 +23,3 @@ Try to improve your discipline as much as you can on each of these twelve **exer
 11) Improve your ideation and fulfillment discipline; entertain yourself by brainstorming ideas from scrolling; categorize ideas into A, B, C, D bins
 
 12) Study how skill economies work; develop intell gathering on talent acquisitions ops; analyze knowledge graph from Owler, LinkedIn, Indeed, et al
-
-
-## GYG Flow -- Git more flow out of GIT
-
-1) Fork Git repositories; dogfood them for your own use; extend them for social development.
-
-2) Understand and use the best practices of using pull requests; develop the culture of sharing
-
-3) Initiate implementation with an issue-driven development process
-
-4) Use ReadTheDocs to document your Pythonic applications as you build them
-
-5) Use/extend Copilot and other AI tools to helpfully suggest code/writing; then extend the AI
-
-6) Use Codespaces and Jupyter Notebooks to practice literate coding and collaboration
-
-7) Use a CI/CD process with GitHub Actions and other automation that improves development quality
-
-8) Write better commit messages, for your own sanity and your own dev discipline; try to use Conventional Commits
-
-9) Change/improve your the fork; add the hard things that you wish someone would add in order to make it your own
-
-10) BE the best selling example of not just your forks, but also your development discipline.
-
-11) Make it more social; find ways to network; consider measuring the effectiveness of your networking
-
-12) LISTEN a better and listen to those who best at listening
-
-## GYG Related Projects
-
-1) Annotify
-
-2) RSSistant
-
-3) DIFFgraph / GNNgraph
-
-4) StartupCookbook
-
-5) SheepDEWG
-
-6) creVass
-
-7) Funnier.be Clichesaurus DOYNK.ME
-
-8) DIFFversity
-
-9) GitRxiv
-
-10) ASYNCH.work
-
-11) 86400.guru
-
-12) ENGR.co
-
-
-
-
- 
